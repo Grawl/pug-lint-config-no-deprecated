@@ -1,0 +1,24 @@
+{
+	"name": "pug-lint-config-no-deprecated",
+	"version": "0.1.0",
+	"description": "pug-lint config to disallow obsolete elements and attributes",
+	"author": {
+		"name": "Daniil Pronin",
+		"email": "mail@grawl.ru",
+		"url": "http://grawl.ru"
+	},
+	"license": "WTFPL",
+	"keywords": [
+		"puglint",
+		"puglintconfig"
+	],
+	"homepage": "https://github.com/grawl/pug-lint-config-no-deprecated",
+	"repository": {
+		"type": "git",
+		"url": "git@github.com:grawl/pug-lint-config-no-deprecated.git"
+	},
+	"main": "./index.js",
+	"peerDependencies": {
+		"pug-lint": "^2.5.0"
+	}
+}
