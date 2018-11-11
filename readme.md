@@ -1,4 +1,4 @@
-# pug-lint-config-no-deprecated
+# pug-lint-config-no-deprecated [![npm version](https://badge.fury.io/js/pug-lint-config-no-deprecated.svg)](https://badge.fury.io/js/pug-lint-config-no-deprecated)
 
 > It means you cannot use obsolete HTML4 anymore.
 
